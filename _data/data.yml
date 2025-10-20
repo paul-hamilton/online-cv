@@ -55,6 +55,18 @@ career-profile:
     Highly skilled and motivated lead developer with extensive experience building SaaS enterprise software in distributed team environments. 
     Proficient in modern cloud architectures and technologies, particularly AWS and serverless solutions. 
     Proven ability to thrive in fast-paced startup and high-growth settings, with a strong track record of designing and delivering foundational platform capabilities.
+
+    Skills Summary
+    - Programming Languages: JavaScript, TypeScript, Python, Java.
+    - Frameworks & Libraries: ReactJS, Node.js, Express.js, Spring Boot. 
+    - AI: Azure OpenAI APIs, LangChain, RAG pipelines, agentic workflows, embeddings &
+      vector search (Elasticsearch), AI-assisted development (GitHub Copilot, AWS
+      CodeWhisperer)
+    - Databases & Analytics Engines: MySQL, DynamoDB, MongoDB, RDS, Elasticsearch, Kinesis.
+    - Cloud Platforms & DevOps: Advanced AWS expertise and some experience in Azure.
+      Strong proficiency in building and managing Infrastructure as Code (in CloudFormation)
+      and implementing CI/CD pipelines.
+    - Testing Tools & Frameworks: Jest, JUnit, Postman, API contract testing with Pact, distributed load testing with AWS solutions and JMeter.
     
 education:
   title: Education
@@ -72,10 +84,11 @@ experiences:
     company: Workgrid Software, Belfast (Northern Ireland, UK)
     details: |
       Technical lead of the Platform & Security team for a multi-tenant SaaS employee digital assistant product, architected and deployed fully in AWS.
+      
       Key accomplishments:
         - Designed and implemented platform and security foundations from the ground up for a new AWS organization and account architecture.
         - Implemented and operationalized core cloud management practices (cost management, security guardrails, backup and disaster recovery, deployment strategy).
-        - Led development of the 'chat-to-document' product feature, that introduced AI capabilities, 
+        - Led development of the "chat-to-document" product feature, that introduced AI capabilities, 
           by integrating LLMs and a RAG pipeline, into our platform. Helped define a framework for evaluating AI capabilities and product impact.
         - Developed a centralized logging & analytics framework (Kinesis, S3, Lambda, Elasticsearch).
   - role: Principal Software Engineer
@@ -83,6 +96,7 @@ experiences:
     company: Workgrid Software, Belfast (Northern Ireland, UK)
     details: |
       Cloud Platform and Full Stack JavaScript Engineer for a multi-tenant SaaS employee digital assistant product, architected and deployed fully in AWS.
+      
       Key accomplishments:
        - Built the AWS infrastructure for EU data residency.
        - Developed core platform capabilities: backup/restore, multi-region disaster recovery and tenant provisioning.
@@ -92,6 +106,7 @@ experiences:
     company: Liberty-IT, Belfast (Northern Ireland, UK)
     details: |
       Java software engineer responsible for developing and maintaining enterprise software for a global insurance company. 
+      
       Key accomplishments:
         - Partnered with DevOps to deliver CI/CD pipelines and developer tooling to support automated testing and code quality analysis.
         - Built an electronic document management system and supported cross-team adoption.
