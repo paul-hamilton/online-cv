@@ -52,12 +52,10 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Highly skilled and motivated lead developer with extensive experience building SaaS enterprise software in distributed team environments. 
+    Proficient in modern cloud architectures and technologies, particularly AWS and serverless solutions. 
+    Proven ability to thrive in fast-paced startup and high-growth settings, with a strong track record of designing and delivering foundational platform capabilities.
+    
 education:
   title: Education
   info:
@@ -73,23 +71,21 @@ experiences:
     time: 2022 - Present
     company: Workgrid Software, Belfast (Northern Ireland, UK)
     details: |
-      Technical lead of the Platform & Security team for a multi-tenant SaaS product, focused
-      on employee digital experience, fully built in AWS.
+      Technical lead of the Platform & Security team for a multi-tenant SaaS employee digital assistant product, architected and deployed fully in AWS.
       Key accomplishments:
-        - Built platform and security foundations for new AWS organization/accounts.
-        - Established core cloud management practices.
-        - Led the development of the “chat-to-document” product feature, that introduced AI capabilities, 
-          by integrating LLMs and a RAG pipeline, into our low-code platform.
+        - Designed and implemented platform and security foundations from the ground up for a new AWS organization and account architecture.
+        - Implemented and operationalized core cloud management practices (cost management, security guardrails, backup and disaster recovery, deployment strategy).
+        - Led development of the 'chat-to-document' product feature, that introduced AI capabilities, 
+          by integrating LLMs and a RAG pipeline, into our platform. Helped define a framework for evaluating AI capabilities and product impact.
         - Developed a centralized logging & analytics framework (Kinesis, S3, Lambda, Elasticsearch).
   - role: Principal Software Engineer
     time: 2018 - 2022
     company: Workgrid Software, Belfast (Northern Ireland, UK)
     details: |
-      Cloud Platform Engineer and full stack JavaScript engineer for a multi-tenant SaaS
-      product, focused on employee digital experience, fully built in AWS.
+      Cloud Platform and Full Stack JavaScript Engineer for a multi-tenant SaaS employee digital assistant product, architected and deployed fully in AWS.
       Key accomplishments:
        - Built the AWS infrastructure for EU data residency.
-       - Developed core platform capabilities: backup/restore, multi-region disaster recovery and tenant provisioning
+       - Developed core platform capabilities: backup/restore, multi-region disaster recovery and tenant provisioning.
        - Led engineering team in the delivery of a key product feature: the “App Store” (ReactJS front end and Node.js/Express.js back end).
   - role: Senior Software Engineer / Software Engineer / Associate Software Engineer
     time: 2007 - 2018
@@ -97,9 +93,9 @@ experiences:
     details: |
       Java software engineer responsible for developing and maintaining enterprise software for a global insurance company. 
       Key accomplishments:
-        - Worked with DevOps to implement CI/CD pipelines and developer tooling for automated testing and code analysis/coverage.
+        - Partnered with DevOps to deliver CI/CD pipelines and developer tooling to support automated testing and code quality analysis.
         - Built an electronic document management system and supported cross-team adoption.
-        - Conversion of mainframe applications to cloud-based microservices.
+        - Modernized legacy mainframe applications by converting them into cloud-based microservices.
         - Built integrations to third party APIs for a quote automation system.
 
 certifications:
@@ -129,7 +125,7 @@ skills:
   - name: Python & Django
     level: 98%
 
-  - name: Javascript & jQuery
+  - name: Javascript & Typescript
     level: 98%
 
   - name: Angular
