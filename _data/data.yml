@@ -73,39 +73,34 @@ experiences:
     time: 2022 - Present
     company: Workgrid Software, Belfast (Northern Ireland, UK)
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
+      Technical lead of the Platform & Security team for a multi-tenant SaaS product, focused
+      on employee digital experience, fully built in AWS.
+      Key accomplishments:
+        - Built platform and security foundations for new AWS organization/accounts.
+        - Established core cloud management practices.
+        - Led the development of the “chat-to-document” product feature, that introduced AI capabilities, 
+          by integrating LLMs and a RAG pipeline, into our low-code platform.
+        - Developed a centralized logging & analytics framework (Kinesis, S3, Lambda, Elasticsearch).
   - role: Principal Software Engineer
     time: 2018 - 2022
     company: Workgrid Software, Belfast (Northern Ireland, UK)
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Cloud Platform Engineer and full stack JavaScript engineer for a multi-tenant SaaS
+      product, focused on employee digital experience, fully built in AWS.
+      Key accomplishments:
+       - Built the AWS infrastructure for EU data residency.
+       - Developed core platform capabilities: backup/restore, multi-region disaster recovery and tenant provisioning
+       - Led engineering team in the delivery of a key product feature: the “App Store” (ReactJS front end and Node.js/Express.js back end).
   - role: Senior Software Engineer / Software Engineer / Associate Software Engineer
     time: 2007 - 2018
     company: Liberty-IT, Belfast (Northern Ireland, UK)
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Java software engineer responsible for developing and maintaining enterprise software for a global insurance company. 
+      Key accomplishments:
+        - Worked with DevOps to implement CI/CD pipelines and developer tooling for automated testing and code analysis/coverage.
+        - Built an electronic document management system and supported cross-team adoption.
+        - Conversion of mainframe applications to cloud-based microservices.
+        - Built integrations to third party APIs for a quote automation system.
 
 certifications:
   title: Certifications
@@ -126,88 +121,6 @@ certifications:
     credentialurl:
     credentialname:
     details: |
-
-projects:
-  title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
-
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-  title: OSS Contributions
-  intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-  contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-  title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
-  papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
-
-recommendations:
-  title: Recommendations
-  list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
 
 skills:
   title: Skills &amp; Proficiency
