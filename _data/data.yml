@@ -18,7 +18,7 @@ sidebar:
   timezone:
   citizenship:
   website:
-  linkedin: alandoe
+  linkedin: paul-hamilton-07b2ab154
   xing:
   github:
   telegram: # add your nickname without '@' sign
@@ -44,19 +44,10 @@ sidebar:
       level: Fluent
 
   interests:
-    title: Interests
+    title:
     info:
-    - item: Climbing
+    - item:
       link:
-
-
-    - item: Snowboarding
-      link:
-
-
-    - item: Cooking
-      link:
-
 
 career-profile:
   title: Career Profile
