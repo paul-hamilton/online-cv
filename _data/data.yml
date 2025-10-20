@@ -53,17 +53,17 @@ career-profile:
   title: Career Profile
   summary: |
     Highly skilled and motivated lead developer with extensive experience building SaaS enterprise software in distributed team environments. 
-    Proficient in modern cloud architectures and technologies, particularly AWS and serverless solutions. 
-    Proven ability to thrive in fast-paced startup and high-growth settings, with a strong track record of designing and delivering foundational platform capabilities.
+    Proficient in modern cloud architectures and technologies, particularly AWS and serverless solutions.
+    Proven ability to thrive in fast-paced startup and high-growth environments, with a strong track record of designing and delivering foundational capabilities and building resilient platforms.
 
-    <h5>Skills Summary</h5>
+    <h4>Skills Summary</h4>
     - <b>Programming Languages:</b> JavaScript, TypeScript, Python, Java.
     - <b>Frameworks & Libraries:</b> ReactJS, Node.js, Express.js, Spring Boot. 
     - <b>AI:</b> Azure OpenAI APIs, LangChain, RAG pipelines, agentic workflows, embeddings &
       vector search (Elasticsearch), AI-assisted development (GitHub Copilot, AWS
       CodeWhisperer)
     - <b>Databases & Analytics Engines:</b> MySQL, DynamoDB, MongoDB, RDS, Elasticsearch, Kinesis.
-    - <b>Cloud Platforms & DevOps:</b> Advanced AWS expertise and some experience in Azure.
+    - <b>Cloud Platforms & DevOps:</b> AWS(advanced), Azure (working knowledge). 
       Strong proficiency in building and managing Infrastructure as Code (in CloudFormation)
       and implementing CI/CD pipelines.
     - <b>Testing Tools & Frameworks:</b> Jest, JUnit, Postman, API contract testing with Pact, distributed load testing with AWS solutions and JMeter.
@@ -91,6 +91,7 @@ experiences:
         - Led development of the "chat-to-document" product feature, that introduced AI capabilities, 
           by integrating LLMs and a RAG pipeline, into our platform. Helped define a framework for evaluating AI capabilities and product impact.
         - Developed a centralized logging & analytics framework (Kinesis, S3, Lambda, Elasticsearch).
+        - Defined and implemented strategy for capturing North Star metrics for the product. 
   - role: Principal Software Engineer
     time: 2018 - 2022
     company: Workgrid Software, Belfast (Northern Ireland, UK)
@@ -100,8 +101,9 @@ experiences:
       Key accomplishments:
        - Built the AWS infrastructure for EU data residency.
        - Developed core platform capabilities: backup/restore, multi-region disaster recovery and tenant provisioning.
+       - Developed internal 
        - Led engineering team in the delivery of a key product feature: the “App Store” (ReactJS front end and Node.js/Express.js back end).
-  - role: Senior Software Engineer / Software Engineer / Associate Software Engineer
+  - role: Software Engineer (Associate → Senior)
     time: 2007 - 2018
     company: Liberty-IT, Belfast (Northern Ireland, UK)
     details: |
