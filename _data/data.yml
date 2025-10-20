@@ -41,7 +41,7 @@ sidebar:
       level: Native
 
     - idiom: Italian
-      level: Fluent
+      level: Native
 
   interests:
     title:
@@ -57,7 +57,7 @@ career-profile:
     Proven ability to thrive in fast-paced startup and high-growth settings, with a strong track record of designing and delivering foundational platform capabilities.
 
     Skills Summary
-    - Programming Languages: JavaScript, TypeScript, Python, Java.
+    - <b>Programming Languages:</b> JavaScript, TypeScript, Python, Java.
     - Frameworks & Libraries: ReactJS, Node.js, Express.js, Spring Boot. 
     - AI: Azure OpenAI APIs, LangChain, RAG pipelines, agentic workflows, embeddings &
       vector search (Elasticsearch), AI-assisted development (GitHub Copilot, AWS
