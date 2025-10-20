@@ -56,17 +56,17 @@ career-profile:
     Proficient in modern cloud architectures and technologies, particularly AWS and serverless solutions. 
     Proven ability to thrive in fast-paced startup and high-growth settings, with a strong track record of designing and delivering foundational platform capabilities.
 
-    Skills Summary
+    <h3>Skills Summary</h3>
     - <b>Programming Languages:</b> JavaScript, TypeScript, Python, Java.
-    - Frameworks & Libraries: ReactJS, Node.js, Express.js, Spring Boot. 
-    - AI: Azure OpenAI APIs, LangChain, RAG pipelines, agentic workflows, embeddings &
+    - <b>Frameworks & Libraries:</b> ReactJS, Node.js, Express.js, Spring Boot. 
+    - <b>AI:</b> Azure OpenAI APIs, LangChain, RAG pipelines, agentic workflows, embeddings &
       vector search (Elasticsearch), AI-assisted development (GitHub Copilot, AWS
       CodeWhisperer)
-    - Databases & Analytics Engines: MySQL, DynamoDB, MongoDB, RDS, Elasticsearch, Kinesis.
-    - Cloud Platforms & DevOps: Advanced AWS expertise and some experience in Azure.
+    - <b>Databases & Analytics Engines:</b> MySQL, DynamoDB, MongoDB, RDS, Elasticsearch, Kinesis.
+    - <b>Cloud Platforms & DevOps:</b> Advanced AWS expertise and some experience in Azure.
       Strong proficiency in building and managing Infrastructure as Code (in CloudFormation)
       and implementing CI/CD pipelines.
-    - Testing Tools & Frameworks: Jest, JUnit, Postman, API contract testing with Pact, distributed load testing with AWS solutions and JMeter.
+    - <b>Testing Tools & Frameworks:</b> Jest, JUnit, Postman, API contract testing with Pact, distributed load testing with AWS solutions and JMeter.
     
 education:
   title: Education
