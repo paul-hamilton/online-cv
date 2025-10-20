@@ -52,18 +52,18 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Highly skilled and motivated lead developer with extensive experience building SaaS enterprise software in distributed team environments. 
+    Highly skilled Solutions Engineer and Technical Lead with extensive experience building SaaS enterprise software in distributed team environments. 
     Proficient in modern cloud architectures and technologies, particularly AWS and serverless solutions.
     Proven ability to thrive in fast-paced startup and high-growth environments, with a strong track record of designing and delivering foundational capabilities and building resilient platforms.
 
-    <h4>Skills Summary</h4>
+    <h5>Skills Summary</h5>
     - <b>Programming Languages:</b> JavaScript, TypeScript, Python, Java.
     - <b>Frameworks & Libraries:</b> ReactJS, Node.js, Express.js, Spring Boot. 
     - <b>AI:</b> Azure OpenAI APIs, LangChain, RAG pipelines, agentic workflows, embeddings &
       vector search (Elasticsearch), AI-assisted development (GitHub Copilot, AWS
       CodeWhisperer)
     - <b>Databases & Analytics Engines:</b> MySQL, DynamoDB, MongoDB, RDS, Elasticsearch, Kinesis.
-    - <b>Cloud Platforms & DevOps:</b> AWS(advanced), Azure (working knowledge). 
+    - <b>Cloud Platforms & DevOps:</b> AWS (advanced), Azure (working knowledge). 
       Strong proficiency in building and managing Infrastructure as Code (in CloudFormation)
       and implementing CI/CD pipelines.
     - <b>Testing Tools & Frameworks:</b> Jest, JUnit, Postman, API contract testing with Pact, distributed load testing with AWS solutions and JMeter.
@@ -84,6 +84,7 @@ experiences:
     company: Workgrid Software, Belfast (Northern Ireland, UK)
     details: |
       Technical lead of the Platform & Security team for a multi-tenant SaaS employee digital assistant product, architected and deployed fully in AWS.
+      Working in close collaboration with CTO and architect
       
       Key accomplishments:
         - Designed and implemented platform and security foundations from the ground up for a new AWS organization and account architecture.
@@ -158,4 +159,3 @@ certifications:
     #level: 60%
 
 footer: >
-  Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
