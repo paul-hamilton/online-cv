@@ -43,11 +43,11 @@ sidebar:
     - idiom: Italian
       level: Native
 
-  interests:
-    title:
-    info:
-    - item:
-      link:
+  #interests:
+    #title:
+    #info:
+    #- item:
+      #link:
 
 career-profile:
   title: Career Profile
