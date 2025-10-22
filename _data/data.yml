@@ -52,10 +52,11 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    Highly skilled Solutions Engineer and Technical Lead with extensive experience building SaaS enterprise software in distributed team environments. 
-    Proficient in modern cloud architectures and technologies, particularly AWS and serverless solutions.
-    Proven ability to thrive in fast-paced startup and high-growth environments, with a strong track record of designing 
-    and delivering foundational capabilities and building resilient cloud platforms.
+    Highly skilled Solutions Engineer and Technical Lead with extensive experience building SaaS enterprise software in distributed team environments.
+    
+    Proficient in modern cloud architectures and technologies, particularly AWS and serverless solutions. 
+    Proven ability to thrive in fast-paced startup and high-growth environments, with deep expertise in SaaS platform architecture 
+    and in designing and delivering foundational capabilities for resilient, cloud-native solutions.
 
     <h5>Skills Summary</h5>
     - <b>Programming Languages:</b> JavaScript, TypeScript, Python, Java.
@@ -85,7 +86,10 @@ experiences:
     company: Workgrid Software, Belfast (Northern Ireland, UK)
     details: |
       Technical lead of the Platform & Security team for a multi-tenant SaaS employee digital assistant product, architected and deployed fully in AWS.
-      Working in close collaboration with CTO and architect
+      Role and responsabilities:
+      Provide leadership in the architecture and design of the product, to deliver a global, secure and resilient platform for our customers.
+      Work in close collaboration with CTO, architect and product management to identify and implement solutions that align with company objectives.
+      Provide cloud engineering techincal expertise to the product teams. 
       
       Key accomplishments:
         - Designed and implemented platform and security foundations from the ground up for a new AWS organization and account architecture.
@@ -99,11 +103,15 @@ experiences:
     company: Workgrid Software, Belfast (Northern Ireland, UK)
     details: |
       Cloud Platform and Full Stack JavaScript Engineer for a multi-tenant SaaS employee digital assistant product, architected and deployed fully in AWS.
+      Role and responsabilities:
+      Collaborate with the architecture team to shape and implement platform capabilities aligned with product requirements. 
+      Share expertise and support team growth through coaching and mentoring. 
+      Design and build solutions that reduce friction for development teams, particularly in areas such as infrastructure as code and core operational capabilities including alerting and logging.
       
       Key accomplishments:
        - Built the AWS infrastructure for EU data residency.
-       - Developed core platform capabilities: backup/restore, multi-region disaster recovery and tenant provisioning.
-       - Developed internal 
+       - Developed solutions for core platform capabilities: backup/restore, multi-region disaster recovery and tenant provisioning.
+       - Designed and implemented internal platform administration application (ReactJS front ennd and Node.js/Appsync back end)
        - Led engineering team in the delivery of a key product feature: the “App Store” (ReactJS front end and Node.js/Express.js back end).
   - role: Software Engineer (Associate → Senior)
     time: 2007 - 2018
