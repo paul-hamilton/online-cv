@@ -54,7 +54,8 @@ career-profile:
   summary: |
     Highly skilled Solutions Engineer and Technical Lead with extensive experience building SaaS enterprise software in distributed team environments. 
     Proficient in modern cloud architectures and technologies, particularly AWS and serverless solutions.
-    Proven ability to thrive in fast-paced startup and high-growth environments, with a strong track record of designing and delivering foundational capabilities and building resilient platforms.
+    Proven ability to thrive in fast-paced startup and high-growth environments, with a strong track record of designing 
+    and delivering foundational capabilities and building resilient cloud platforms.
 
     <h5>Skills Summary</h5>
     - <b>Programming Languages:</b> JavaScript, TypeScript, Python, Java.
@@ -112,7 +113,7 @@ experiences:
       
       Key accomplishments:
         - Partnered with DevOps to deliver CI/CD pipelines and developer tooling to support automated testing and code quality analysis.
-        - Built an electronic document management system and supported cross-team adoption.
+        - Developed an electronic document management system and supported cross-team adoption.
         - Modernized legacy mainframe applications by converting them into cloud-based microservices.
         - Built integrations to third party APIs for a quote automation system.
 
