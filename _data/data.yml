@@ -52,6 +52,7 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
+    <hr />
     Highly skilled Solutions Engineer and Technical Lead with extensive experience building SaaS enterprise software in distributed team environments. 
     
     Proficient in modern cloud architectures and technologies, especially AWS and serverless computing, with applied expertise across a broad spectrum of AWS services.
@@ -68,8 +69,7 @@ career-profile:
     - <b>Cloud Platforms & DevOps:</b> AWS (advanced), Azure (working knowledge). 
       Strong proficiency in building and managing Infrastructure as Code (in CloudFormation)
       and implementing CI/CD pipelines.
-    - <b>Testing Tools & Frameworks:</b> Jest, JUnit, Postman, API contract testing with Pact, distributed load testing with AWS solutions and JMeter.
-    
+    - <b>Testing Tools & Frameworks:</b> Jest, JUnit, Postman, API contract testing with Pact, distributed load testing with AWS solutions and JMeter.    
 education:
   title: Education
   info:
@@ -79,7 +79,7 @@ education:
     details:
 
 experiences:
-  title: Experiences
+  title: Experience
   info:
   - role: Solutions Engineer & Technical Lead
     time: 2022 - Present
