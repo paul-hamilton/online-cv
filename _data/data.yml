@@ -108,7 +108,7 @@ experiences:
       Role and responsibilities:
         - Collaborate with the architecture team to shape and implement platform capabilities aligned with product requirements. 
         - Share expertise and support team growth through coaching and mentoring. 
-        - Design and build solutions that reduce friction for development teams, particularly in areas such as infrastructure as code and core operational capabilities including alerting and logging.
+        - Design and build solutions that reduce developer friction by automating boilerplate infrastructure and resource configuration
       
       Key accomplishments:
        - Built the AWS infrastructure for EU data residency.
