@@ -1,0 +1,176 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+  position: right # position of the sidebar : left or right
+  about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+  education: False # set to False if you want education in main section instead of in sidebar
+
+  # Profile information
+  name: Paul Hamilton
+  tagline: Solutions Engineer
+  avatar: myprofile.jpeg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+  # Sidebar links
+  email: paulhamilton84@gmail.com
+  phone: 07734587795
+  timezone:
+  citizenship:
+  website:
+  linkedin: paul-hamilton-07b2ab154
+  xing:
+  github:
+  telegram: # add your nickname without '@' sign
+  gitlab:
+  bitbucket:
+  bluesky:
+  twitter:
+  stack-overflow: # Number/Username, e.g. 123456/alandoe
+  codewars:
+  goodreads: # Number-Username, e.g. 123456-alandoe
+  mastodon: # Please include your full Mastodon link here.
+  hackerrank: # Please provide your HackerRank username.
+  leetcode: # Please provide your LeetCode username.
+  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+
+  languages:
+    title: Languages
+    info:
+    - idiom: English
+      level: Native
+
+    - idiom: Italian
+      level: Native
+
+  #interests:
+    #title:
+    #info:
+    #- item:
+      #link:
+
+career-profile:
+  title: Career Profile
+  summary: |
+    <hr />
+    Highly skilled Solutions Engineer and Technical Lead with extensive experience building SaaS enterprise software in distributed team environments. 
+    
+    Proficient in modern cloud architectures and technologies, especially AWS and serverless computing, with applied expertise across a broad spectrum of AWS services.
+    
+    Proven ability to thrive in fast-paced startup environments, with a track record of breaking down complexity and providing hands-on technical leadership in the delivery of cloud platform capabilities.
+    <hr />
+    <h5>Skills Summary</h5>
+    - <b>Programming Languages:</b> JavaScript, TypeScript, Python, Java.
+    - <b>Frameworks & Libraries:</b> ReactJS, Node.js, Express.js, Spring Boot. 
+    - <b>AI:</b> Azure OpenAI APIs, LangChain, RAG pipelines, agentic workflows, embeddings &
+      vector search (Elasticsearch), AI-assisted development (GitHub Copilot, AWS
+      CodeWhisperer)
+    - <b>Databases & Analytics Engines:</b> MySQL, DynamoDB, MongoDB, RDS, Elasticsearch, Kinesis.
+    - <b>Cloud Platforms & DevOps:</b> AWS (advanced), Azure (working knowledge). 
+      Strong proficiency in building and managing Infrastructure as Code (in CloudFormation)
+      and implementing CI/CD pipelines.
+    - <b>Testing Tools & Frameworks:</b> Jest, JUnit, Postman, API contract testing with Pact, distributed load testing with AWS solutions and JMeter.    
+education:
+  title: Education
+  info:
+  - degree: BSc in Computer Science
+    university: Queen's University Belfast
+    time: 2003 - 2007
+    details:
+  - degree: High School Diploma with IT Specialization
+    university: ITIS F.Giordani Napoli (Italy)
+    time: 2003
+    details:
+
+experiences:
+  title: Experience
+  info:
+  - role: Solutions Engineer & Technical Lead
+    time: 2022 - Present
+    company: Workgrid Software, Belfast (Northern Ireland, UK)
+    details: |
+      Technical lead of the Platform & Security team for a multi-tenant SaaS employee digital assistant product, architected and deployed fully in AWS.
+      
+      Role and responsibilities:
+        - Provide hands-on leadership to the team in the architecture, design and delivery of a global, secure and resilient platform for customers.
+        - Work in close collaboration with CTO, architect and product management to identify and prioritize solutions that align with company objectives.
+        - Provide cloud engineering technical expertise to the product teams. 
+      
+      Key accomplishments:
+        - Led the initiative to build out a new AWS organization and account architecture from the ground up, including platform and security foundations.
+        - Introduced and operationalized core cloud management practices (deployment strategy, backup and disaster recovery, cost management, security guardrails).
+        - Led the development of the "chat-to-document" product feature, that introduced AI capabilities, 
+          by integrating LLMs and a RAG pipeline, into our platform. Helped define a framework for evaluating AI capabilities and their impact on the product.
+        - Developed a centralized logging & analytics framework (Kinesis, S3, Lambda, Elasticsearch) to seamlessly collect data from multiple AWS services and simplify operational insights. 
+        - Defined and implemented strategy for capturing North Star metrics for the product. 
+  - role: Principal Software Engineer
+    time: 2018 - 2022
+    company: Workgrid Software, Belfast (Northern Ireland, UK)
+    details: |
+      Cloud Platform and Full Stack JavaScript Engineer for a multi-tenant SaaS employee digital assistant product, architected and deployed fully in AWS.
+      
+      Role and responsibilities:
+        - Collaborate with the architecture team to shape and implement platform capabilities aligned with product requirements. 
+        - Share expertise and support team growth through coaching and mentoring. 
+        - Design and build solutions that reduce developer friction by automating boilerplate infrastructure and resource configuration
+      
+      Key accomplishments:
+       - Built the AWS infrastructure for EU data residency.
+       - Developed solutions for core platform capabilities: backup/restore, multi-region disaster recovery and tenant provisioning.
+       - Designed and implemented internal platform administration application (ReactJS front end and Node.js/Appsync back end).
+       - Led engineering team in the delivery of a key product feature: the “App Store” (ReactJS front end and Node.js/Express.js back end).
+  - role: Software Engineer (Associate → Senior)
+    time: 2007 - 2018
+    company: Liberty-IT, Belfast (Northern Ireland, UK)
+    details: |
+      Java software engineer responsible for developing and maintaining enterprise software for a global insurance company. 
+      
+      Key accomplishments:
+        - Partnered with DevOps to deliver CI/CD pipelines and developer tooling to support automated testing and code quality analysis.
+        - Developed an electronic document management system and supported cross-team adoption (as part of the enablement team). 
+        - Modernized legacy mainframe applications by converting them into cloud-based microservices.
+        - Built integrations to third party APIs for a quote automation system.
+
+certifications:
+  title: Certifications
+  list:
+  - name: Certified Java Programmer 
+    start:
+    end:
+    organization: Oracle
+    credentialid:
+    credentialurl:
+    credentialname:
+    details: |
+  - name: Certified Solutions Architect
+    start:
+    end:
+    organization: AWS
+    credentialid:
+    credentialurl:
+    credentialname:
+    details: |
+
+#skills:
+  #title: Skills &amp; Proficiency
+
+  #toolset:
+  #- name: Python & Django
+    #level: 98%
+
+  #- name: Javascript & Typescript
+    #level: 98%
+
+  #- name: Angular
+    #level: 98%
+
+  #- name: HTML5 & CSS
+    #level: 95%
+
+  #- name: Ruby on Rails
+    #level: 85%
+
+  #- name: Sketch & Photoshop
+    #level: 60%
+
+footer: >
